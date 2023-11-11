@@ -43,9 +43,26 @@
 
   <br>
 
+## 🔧 Options
 
-<p align="center">
-  <a href="https://github.com/Kai0071"> <img  alt="Kai0071's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Kai0071?cardType=github&theme=github-dark&preferLogin=true" />  </a>
+|  Parameter   |                                   Details                                   |  Type   |               Example               |
+| :----------: | :-------------------------------------------------------------------------: | :-----: | :---------------------------------: |
+|   `lines`    |       Text to display with lines separated by `;` and `+` for spaces        | string  | `First+line;Second+line;Third+line` |
+|   `height`   |             Height of the output SVG in pixels (default: `50`)              | integer |         Any positive number         |
+|   `width`    |             Width of the output SVG in pixels (default: `400`)              | integer |         Any positive number         |
+|    `size`    |                     Font size in pixels (default: `20`)                     | integer |         Any positive number         |
+|    `font`    |                     Font family (default: `monospace`)                      | string  |     Any font from Google Fonts      |
+|   `color`    |                    Color of the text (default: `36BCF7`)                    | string  |  Hex code without # (eg. `F724A9`)  |
+| `background` |             Background color of the text (default: `00000000`)              | string  |  Hex code without # (eg. `FEFF4C`)  |
+|   `center`   |    `true` to center text or `false` for left aligned (default: `false`)     | boolean |          `true` or `false`          |
+|  `vCenter`   |  `true` to center vertically or `false`(default) to align above the center  | boolean |          `true` or `false`          |
+| `multiline`  |  `true` to wrap lines or `false` to retype on one line (default: `false`)   | boolean |          `true` or `false`          |
+|  `duration`  | Duration of the printing of a single line in milliseconds (default: `5000`) | integer |         Any positive number         |
+|   `pause`    |     Duration of the pause between lines in milliseconds (default: `0`)      | integer |       Any non-negative number       |
+|   `repeat`   |  `true` to loop around to the first line after the last (default: `true`)   | boolean |          `true` or `false`          |
+| `separator`  |     Separator used between lines in the lines parameter (default: `;`)      | string  |        `;`, `;;`, `/`, etc.         |
+
+
 
 
 
