@@ -13,6 +13,20 @@
 <h3>Sahan's Music Player</h3>
 
 <img src="https://readme-spotify-status-rho.vercel.app/api/run-spotify-status.py" alt="s4nx Playing Now" width="500" />
+
+# Please Subscribe My Youtube Channel
+  
+ <br><br> 
+<p align="center">
+  <a href="https://youtube.com/channel/UCDB6GZMdSfsmPN9gqxxqnMQ"><img title="Youtube Videos" src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/MD-Images/yt.png?raw=true" width="180"/></a></div>
+  
+<p align="center">
+  <a href="https://youtube.com/channel/UCDB6GZMdSfsmPN9gqxxqnMQ?sub_confirmation=1">
+      <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?label=Subscribers&style=for-the-badge&color=red&labelColor=ce4630"/></a> 
+    <a href="https://youtube.com/channel/UCDB6GZMdSfsmPN9gqxxqnMQ">
+      <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/youtube-api/view-count-badge.php?label=View+Count&style=for-the-badge&color=blue&labelColor=0b689d"/></a>
+  </p>
+</p>
 <!---
 maduwa2006/maduwa2006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
