@@ -6,11 +6,6 @@
 
   <br>
 
---- 
-  
-[![](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)](#)
- 
----
 # My currently working Languages and Tools 
 [![My Skills](https://skillicons.dev/icons?i=actix,bash,git,github,gitlab,heroku,html,js,ai,zig,wordpress,webpack,visualstudio,vercel,mongodb,nodejs,openstack,postgres,php,powershell,py,react,raspberrypi,perl,azure,react,vue,nuxtjs,ocaml,flutter&perline=15)](https://github.com/DarkWinzo)
 
@@ -18,6 +13,10 @@
 <h3>Sahan's Music Player</h3>
 
 <img src="https://readme-spotify-status-rho.vercel.app/api/run-spotify-status.py" alt="s4nx Playing Now" width="500" />
+   </p>
+<h2 align="center"> 💫 Now Listening On Spotify 💫
+</h2>
+<p align="center"> <img src="https://kai-spotify.vercel.app/api/spotify" alt="kai0071" /> </p>
 
 # Please Subscribe My Youtube Channel
   
@@ -33,6 +32,13 @@
   </p>
 </p>
 <!---
+
+--- 
+  
+[![](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)](#)
+ 
+---
+
 maduwa2006/maduwa2006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
