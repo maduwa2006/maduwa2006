@@ -41,6 +41,13 @@
 <p align="center">
   <a href="https://github.com/maduwa2006"> <img  alt="maduwa2006's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/maduwa2006?cardType=github&theme=github-dark&preferLogin=true" />  </a>
 
+  <br>
+
+
+<p align="center">
+  <a href="https://github.com/Kai0071"> <img  alt="Kai0071's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Kai0071?cardType=github&theme=github-dark&preferLogin=true" />  </a>
+
+
 
 maduwa2006/maduwa2006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
