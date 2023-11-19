@@ -42,7 +42,13 @@
   <a href="https://github.com/maduwa2006"> <img  alt="maduwa2006's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/maduwa2006?cardType=github&theme=github-dark&preferLogin=true" />  </a>
 
   <br>
-
+ ## ```𝘛𝘢𝘱 𝘈𝘯𝘺 𝘓𝘖𝘎𝘖 𝘛𝘰 𝘊𝘰𝘯𝘵𝘢𝘤𝘵 𝘔𝘦```
+ <p align="centre">
+  <a href="mailto:HELP_SIGMA-MD@outlook.com">
+    <img src="https://i.ibb.co/Kx8NXxT/mail-gmail-22737.png" align="centre" width="90" />
+   <a href="https://wa.me/923466319114?text=Hi%20Maher-Zubair%20Sir...%20I%20need%20some%20help%20in%20SIGMA-MD">
+    <img src="https://i.ibb.co/2MLVZwm/whatsapp-logo-icon-181644.png" align="centre" width="90" />
+     
 maduwa2006/maduwa2006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
